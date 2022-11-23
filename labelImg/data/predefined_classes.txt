@@ -1,0 +1,10 @@
+Speed limit
+Priority road
+Yield
+Stop
+Turn left
+Turn right
+Go straight or right
+Go straight or left
+Pedestrians
+No entry
